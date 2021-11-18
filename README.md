@@ -7,3 +7,5 @@ hi i am catuquei 👋
 [![GitHub followers](https://img.shields.io/github/followers/Catuquei.svg?style=social&label=Followers)](https://github.com/Catuquei?tab=followers)
 
 ![Catuquei GitHub stats](https://github-readme-stats.vercel.app/api?username=Catuquei&show_icons=true&theme=radical)
+
+![Discord](https://img.shields.io/badge/Catuquei%23738-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 

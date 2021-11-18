@@ -8,4 +8,4 @@ hi i am catuquei 👋
 
 ![Catuquei GitHub stats](https://github-readme-stats.vercel.app/api?username=Catuquei&show_icons=true&theme=radical)
 
-![Discord](https://img.shields.io/badge/Catuquei%3738-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
+![Discord](https://img.shields.io/badge/Catuquei#3739%-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 

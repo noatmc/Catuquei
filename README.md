@@ -5,6 +5,7 @@ hi i am catuquei 👋
 - ![Discord](https://img.shields.io/badge/Catuquei%233739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
 - [![GitHub followers](https://img.shields.io/github/followers/Catuquei.svg?style=social&label=Followers)](https://github.com/Catuquei?tab=followers)
 
+![Catuquei discord status](https://discord.c99.nl/widget/theme-1/531501086855397377.png)
 ![Catuquei GitHub stats](https://github-readme-stats.vercel.app/api?username=Catuquei&show_icons=true&theme=radical)
 
 
